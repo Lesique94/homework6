@@ -1,0 +1,11 @@
+[href*="https"] {
+    color: red;
+}
+
+ul + p {
+    font-size: 26px;
+}
+
+.a1 {
+    background-color: green;
+}
